@@ -18,3 +18,5 @@ INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
 VALUES (9,'Computer','Electronic',2500,2020-02-22,2020-02-28);
 INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
 VALUES (10,'Attic','Home_improvement',5000,2020-02-22,2020-02-28);
+
+INSERT INTO users(id,name,age) VALUES (1,'Matt',4)
