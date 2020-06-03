@@ -18,24 +18,3 @@ INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
 VALUES (9,'Computer','Electronic',2500,2020-02-22,2020-02-28);
 INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
 VALUES (10,'Attic','Home_improvement',5000,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (11,'Speakers','Audio_Equipment',270,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (12,'Sneakers','Clothing',500,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (13,'Wardrobe','Clothing',2500,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (14,'Headphones','Audio_Equipment',350,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (15,'Furniture','Home_improvement',2500,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (16,'Washer','Home_improvement',150,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (17,'Dryer','Home_improvement',250,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (18,'Dishwasher','Home_improvement',250,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (19,'Air Conditioner','Home_improvement',250,2020-02-22,2020-02-28);
-INSERT INTO projects(id,title,category,funding_goal,start_date,end_date)
-VALUES (20,'Patio','Home_improvement',25000,2020-02-22,2020-02-28);
-
