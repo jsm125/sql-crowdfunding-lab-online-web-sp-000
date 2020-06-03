@@ -40,7 +40,7 @@ INSERT INTO users(id,name,age) VALUES (18,'Matt',4);
 INSERT INTO users(id,name,age) VALUES (19,'Matt',4);
 INSERT INTO users(id,name,age) VALUES (20,'Matt',4);
 
-INSERT INTO pledges(id,amount,user_id,project_id) VALUES (1,100.00,1,1);
+INSERT INTO pledges(id,amount,user_id,project_id) VALUES (1,100,1,1);
 INSERT INTO pledges(id,amount,user_id,project_id) VALUES (2,100,1,1);
 INSERT INTO pledges(id,amount,user_id,project_id) VALUES (3,100,1,1);
 INSERT INTO pledges(id,amount,user_id,project_id) VALUES (4,100,1,1);
